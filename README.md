@@ -1,6 +1,6 @@
 # Luke Carrier
 
-Site Reliability Engineer from an open source software development background. Passionate about education, open source software development and ethics in technology. Commercial experience in managing production Azure infrastructure with Terraform and SaltStack web development with PHP. Currently playing with Rust.
+Site Reliability Engineer from an open source software development background. Passionate about education, open source software development and ethics in technology. Commercial experience in managing production Azure infrastructure with Terraform, and SaltStack web development with PHP. Currently playing with Rust.
 
 ---
 
@@ -23,31 +23,31 @@ AVADO, formerly Floream, delivers online learning experiences to enterprise and 
 
 Formal exit from the platform development team.
 
-* Leading the configuration of PagerDuty to support the existing incident management policy.
-* Led the migration of our UAT and production platforms to Azure.
+* __Led the migration of several UAT and production platforms to Azure.__
 * Extending continuous delivery pipelines to cover rollback and UAT cutting operations.
-* Deployment of Tideways for PHP APM.
+* Currently leading the configuration of PagerDuty to support the existing incident management policy.
+* Deployed Tideways for PHP APM.
 * Hosted a series of knowledge sharing sessions on our technology stack for our new developers and infrastructure team.
 
 #### Senior Moodle Developer / Site Reliability Engineer (July 2017 - August 2018)
 
-Transitional phase where I began dedicating around 50% of my time to the production environment, driven by challenges scaling the existing infrastructure.
+Transitional phase where I began dedicating around 50% of my time to the production environment, driven by the challenges of scaling the existing on-premise infrastructure.
 
-* Led migration of application servers from Windows Server to Ubuntu, along with initial deployment of SaltStack for configuration management.
-* Introduced Terraform to manage our Azure estate along with the migration of a pro bono project.
+* __Introduced Terraform to manage our Azure estate along with the migration of a pro bono project.__
 * Led initial implementation of Datadog to get better insights into platform performance.
+* Led migration of application servers from Windows Server to Ubuntu, along with initial deployment of SaltStack for configuration management.
 
 #### Senior Moodle Developer (January 2015 - July 2017)
 
 I joined AVADO as their first full-time Moodle developer.
 
-* Developed bespoke course user interface framework ("Fluid"), enabling rapid development of new course content and interchangeable, flexible section layouts.
-* Built extensions to facilitate e-commerce, single sign on and synchronisation of user data between platforms from SalesLogix and later Salesforce.
+* __Built extensions to facilitate e-commerce, single sign on and synchronisation of user data between platforms and SalesLogix. Later migrated those extensions to integrate with Salesforce.__
 * Scoped and delivered a SAML 2.0 identity broker based on SimpleSAMLphp that facilitated single sign on between customer identity providers and multiple AVADO-operated service providers.
-* Providing instruction, guidance and code review to other developers on approaching development projects.
-* Revamped automation of our Windows Server environment using Packer and PowerShell DSC.
-* Improved code reuse across our 17 platforms by standardising features and libraries, enabling the convergence effort.
-* Liaising with Moodle core developers to deliver prompt resolutions to issues in the core Moodle distribution, including contribution of patches.
+* Developed bespoke course user interface framework ("Fluid"), enabling rapid development of new course content and interchangeable, flexible section layouts.
+* Constantly provided instruction, guidance and code review to other developers on approaching development projects.
+* Revamped automation of Windows Server environments using Packer and PowerShell DSC.
+* Improved code reuse across 17 different platforms by standardising features and libraries, enabling the convergence effort.
+* Liaised with Moodle core developers to deliver prompt resolutions to issues in the core Moodle distribution, including contribution of patches.
 * Led implementation of automated testing tools (Behat, PHPUnit) and prototyped continuous integration pipelines (GitLab, TeamCity).
 * Led upgrade effort to Moodle 3.x from 2.7.
 
@@ -60,8 +60,8 @@ TDM delivers ICT apprenticeships and uses this experience to deliver educational
 I took on additional responsibilities during a restructure.
 
 * Client liaison and relationship management.
-* Keeping our internal Moodle and Totara LMS distributions for our customers in sync with upstream.
-* Day-to-day management of shared and dedicated Linux (CentOS and Debian) hosting environment.
+* Kept the internal Moodle and Totara LMS distributions in sync with upstream versions.
+* Day-to-day management of shared and dedicated Linux (CentOS and Debian) hosting environments.
 * End to end development support, from scoping and solution design to delivery and deployment.
 
 #### Moodle Developer (September 2011 - June 2015)
@@ -102,7 +102,7 @@ I took a temporary placement as a teaching assistant in ICT and Computing course
 
 ### Wyre Academy
 
-I did a three year apprenticeship in software development after leaving VIth Form.
+I did a three year apprenticeship in software development after leaving sixth Form.
 
 | | |
 | --- | --- |
