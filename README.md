@@ -4,6 +4,17 @@ Site Reliability Engineer from an open source software development background. P
 
 ---
 
+## Key technologies
+
+| | |
+| --- | --- |
+| "Clouds" | Azure |
+| Languages | Bash, PHP, Python, PowerShell, Ruby |
+| Frameworks | Laravel, Rails, Symfony |
+| Testing | Behat, PHPUnit, Selenium |
+| Infrastructure | Chef, Docker Engine, nginx, Packer, PHP-FPM, SaltStack, Terraform, Vagrant |
+| Databases | PostgreSQL, Redis, SQL Server |
+
 ## Contact details
 
 | | |
