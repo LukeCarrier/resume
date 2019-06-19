@@ -6,24 +6,12 @@ Site Reliability Engineer from an open source software development background. P
 
 ## Contact details
 
-<table>
-    <tr>
-        <td>Email</td>
-        <td><code>luke@carrier.im</code></td>
-    </tr>
-    <tr>
-        <td>Phone</td>
-        <td>07807 102 956</td>
-    </tr>
-    <tr>
-        <td>GitHub</td>
-        <td><a href="https://github.com/LukeCarrier">@LukeCarrier</a></td>
-    </tr>
-    <tr>
-        <td>LinkedIn</td>
-        <td><a href="https://uk.linkedin.com/in/lukecarrier">/in/lukecarrier</a></td>
-    </tr>
-</table>
+| | |
+| --- | --- |
+| Email | `luke@carrier.im` |
+| Phone | 07807 102 956 |
+| GitHub | [@LukeCarrier](https://github.com/LukeCarrier) |
+| LinkedIn | [/in/lukecarrier](https://uk.linkedin.com/in/lukecarrier) |
 
 ## Employment
 
@@ -97,36 +85,18 @@ I took a temporary placement as a teaching assistant in ICT and Computing course
 
 ## Industry certifications
 
-<table>
-    <tr>
-        <td>Linux Professional Institute</td>
-        <td>LPIC-1</td>
-        <td>August 2012</td>
-    </tr>
-    <tr>
-        <td>SUSE</td>
-        <td>Certified Linux Administrator</td>
-        <td>August 2012</td>
-    </tr>
-    <tr>
-        <td>CompTIA</td>
-        <td>Network+</td>
-        <td>July 2012</td>
-    </tr>
-</table>
+| | | |
+| --- | --- | --- |
+| Linux Professional Institute | LPIC-1 | August 2012 |
+| SUSE | Certified Linux Administrator | August 2012 |
+| CompTIA | Network+ | July 2012 |
 
 ## Publications
 
-<table>
-    <tr>
-        <td>Fluid for Moodle</td>
-        <td><code>http://luke.carrier.im/projects/moodle-fluid/</code></td>
-    </tr>
-    <tr>
-        <td>Component Manager for Moodle</td>
-        <td><code>http://luke.carrier.im/projects/moodle-componentmgr/</code></td>
-    </tr>
-</table>
+| | |
+| --- | --- |
+| Fluid for Moodle | `http://luke.carrier.im/projects/moodle-fluid/` |
+| Component Manager for Moodle | `http://luke.carrier.im/projects/moodle-componentmgr/` |
 
 ## Education
 
@@ -134,42 +104,18 @@ I took a temporary placement as a teaching assistant in ICT and Computing course
 
 I did a three year apprenticeship in software development after leaving VIth Form.
 
-<table>
-    <tr>
-        <td>Level 4 Diploma in ICT Systems &amp; Principles</td>
-        <td>December 2014</td>
-    </tr>
-    <tr>
-        <td>Level 4 Diploma in ICT Professional Competence</td>
-        <td>December 2014</td>
-    </tr>
-    <tr>
-        <td>Level 3 Certificate in ICT Systems &amp; Principles</td>
-        <td>June 2013</td>
-    </tr>
-    <tr>
-        <td>Level 3 Diploma in ICT Professional Competence</td>
-        <td>June 2013</td>
-    </tr>
-    <tr>
-        <td>Level 2 Award in ICT Systems &amp; Principles</td>
-        <td>April 2012</td>
-    </tr>
-    <tr>
-        <td>Level 2 Diploma in ICT Professional Competence</td>
-        <td>April 2012</td>
-    </tr>
-</table>
+| | |
+| --- | --- |
+| Level 4 Diploma in ICT Systems &amp; Principles | December 2014 |
+| Level 4 Diploma in ICT Professional Competence | December 2014 |
+| Level 3 Certificate in ICT Systems &amp; Principles | June 2013 |
+| Level 3 Diploma in ICT Professional Competence | June 2013 |
+| Level 2 Award in ICT Systems &amp; Principles | April 2012 |
+| Level 2 Diploma in ICT Professional Competence | April 2012 |
 
 ### Stourport High School & VIth Form Centre
 
-<table>
-    <tr>
-        <td>3 AS Levels</td>
-        <td>August 2011</td>
-    </tr>
-    <tr>
-        <td>12 GCSEs A-C</td>
-        <td>June 2010</td>
-    </tr>
-</table>
+| | |
+| --- | --- |
+| 3 AS Levels | August 2011 |
+| 12 GCSEs A-C | June 2010 |
