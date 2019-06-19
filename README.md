@@ -21,9 +21,11 @@ AVADO, formerly Floream, delivers online learning experiences to enterprise and 
 
 #### Site Reliability Engineer (August 2018 - present)
 
-Formal exit from the platform development team.
+Formal exit from the platform development team, working with the development team as product stakeholders.
 
-* __Led the migration of several UAT and production platforms to Azure.__
+* __Led the migration of all UAT and production platforms to Azure:__
+    * UAT a true scaled-down replica of the live environment, down to replication configuration.
+    * Environments constructed from the same Terraform modules.
 * Extending continuous delivery pipelines to cover rollback and UAT cutting operations.
 * Currently leading the configuration of PagerDuty to support the existing incident management policy.
 * Deployed Tideways for PHP APM.
@@ -35,7 +37,8 @@ Transitional phase where I began dedicating around 50% of my time to the product
 
 * __Introduced Terraform to manage our Azure estate along with the migration of a pro bono project.__
 * Led initial implementation of Datadog to get better insights into platform performance.
-* Led migration of application servers from Windows Server to Ubuntu, along with initial deployment of SaltStack for configuration management.
+* Led migration of application servers from Windows Server to Ubuntu, driven by the need to reduce operational interventions (~80 per week to <1 per week).
+* Led initial deployment of SaltStack for configuration management.
 
 #### Senior Moodle Developer (January 2015 - July 2017)
 
@@ -43,6 +46,7 @@ I joined AVADO as their first full-time Moodle developer.
 
 * __Built extensions to facilitate e-commerce, single sign on and synchronisation of user data between platforms and SalesLogix. Later migrated those extensions to integrate with Salesforce.__
 * Scoped and delivered a SAML 2.0 identity broker based on SimpleSAMLphp that facilitated single sign on between customer identity providers and multiple AVADO-operated service providers.
+* Began using Vagrant and SaltStack to improve predictability of developer workstation environments and reduce configuration drift.
 * Developed bespoke course user interface framework ("Fluid"), enabling rapid development of new course content and interchangeable, flexible section layouts.
 * Constantly provided instruction, guidance and code review to other developers on approaching development projects.
 * Revamped automation of Windows Server environments using Packer and PowerShell DSC.
