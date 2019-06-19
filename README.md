@@ -1,6 +1,6 @@
 # Luke Carrier
 
-Site Reliability Engineer convert from an educational technology background.
+Site Reliability Engineer from an open source software development background. Passionate about education, open source software development and ethics in technology. Commercial experience in managing production Azure infrastructure with Terraform and SaltStack web development with PHP. Currently playing with Rust.
 
 ---
 
@@ -24,10 +24,6 @@ Site Reliability Engineer convert from an educational technology background.
         <td><a href="https://uk.linkedin.com/in/lukecarrier">/in/lukecarrier</a></td>
     </tr>
 </table>
-
-## Profile
-
-Site Reliability Engineer from an open source software development background. Passionate about education, open source software development and ethics in technology. Commercial experience in managing production Azure infrastructure with Terraform and SaltStack web development with PHP. Currently playing with Rust.
 
 ## Employment
 
