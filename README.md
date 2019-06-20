@@ -14,6 +14,7 @@ Site Reliability Engineer from an open source software development background. P
 | Testing | Behat, PHPUnit, Selenium |
 | Infrastructure | Chef, Docker Engine, nginx, Packer, PHP-FPM, SaltStack, Terraform, Vagrant |
 | Databases | PostgreSQL, Redis, SQL Server |
+| Monitoring | Datadog, Prometheus, Tideways |
 
 ## Contact details
 
