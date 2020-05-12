@@ -1,6 +1,8 @@
 # Luke Carrier
 
-Site Reliability Engineer from an open source software development background. Passionate about education, open source software development and ethics in technology. Commercial experience in managing production Azure infrastructure with Terraform, and SaltStack; and web development with PHP. Currently playing with Rust.
+Site Reliability Engineer seeking an engineering-focused role that allows me to apply my polyglot software development and debugging skills to improving operations experience.
+
+I have nine years of commercial experience in Linux systems administration, DevOps,managing production Azure infrastructure with Terraform and SaltStack, and web development with PHP. Currently playing with Rust and AWS Lambda.
 
 ---
 
