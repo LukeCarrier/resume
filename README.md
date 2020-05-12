@@ -29,9 +29,9 @@ I have nine years of commercial experience in Linux systems administration, DevO
 
 ## Employment
 
-### AVADO Learning
+### Avado Learning
 
-AVADO, formerly Floream, delivers online learning experiences to enterprise and individuals. They operate one of the largest distance learning providers, Home Learning College.
+Avado, formerly Floream, delivers online learning experiences to enterprise and individuals. They operate one of the largest distance learning providers, Home Learning College.
 
 #### Site Reliability Engineer (August 2018 - present)
 
@@ -56,10 +56,10 @@ Transitional phase where I began dedicating around 50% of my time to the product
 
 #### Senior Moodle Developer (January 2015 - July 2017)
 
-I joined AVADO as their first full-time Moodle developer.
+I joined Avado as their first full-time Moodle developer.
 
 * __Built extensions to facilitate e-commerce, single sign on and synchronisation of user data between platforms and SalesLogix. Later migrated those extensions to integrate with Salesforce.__
-* Scoped and delivered a SAML 2.0 identity broker based on SimpleSAMLphp that facilitated single sign on between customer identity providers and multiple AVADO-operated service providers.
+* Scoped and delivered a SAML 2.0 identity broker based on SimpleSAMLphp that facilitated single sign on between customer identity providers and multiple Avado-operated service providers.
 * Began using Vagrant and SaltStack to improve predictability of developer workstation environments and reduce configuration drift.
 * Developed bespoke course user interface framework ("Fluid"), enabling rapid development of new course content and interchangeable, flexible section layouts.
 * Constantly provided instruction, guidance and code review to other developers on approaching development projects.
