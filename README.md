@@ -39,9 +39,10 @@ Formal exit from the platform development team, working with the development tea
 
 * __Led the migration of all UAT and production platforms to Azure:__
     * UAT a true scaled-down replica of the live environment, down to replication configuration.
-    * Environments constructed from the same Terraform modules.
+    * Hub and spoke environments constructed from the same Terraform modules, managed using workspaces.
+* Enabling disaster recovery and spinup of isolated testing environments from the same Terraform configurations.
 * Extending continuous delivery pipelines to cover rollback and UAT cutting operations.
-* Currently leading the configuration of PagerDuty to support the existing incident management policy.
+* Led deployment of PagerDuty to support the existing incident management policy.
 * Deployed Tideways for PHP APM.
 * Hosted a series of knowledge sharing sessions on our technology stack for our new developers and infrastructure team.
 
