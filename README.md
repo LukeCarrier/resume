@@ -11,9 +11,9 @@ I have nine years of commercial experience in Linux systems administration, DevO
 | | |
 | --- | --- |
 | "Clouds" | Azure |
-| Languages | Bash, PHP, Python, PowerShell, Ruby |
+| Languages | Bash, Go, PHP, Python, PowerShell, Ruby |
 | Frameworks | Laravel, Rails, Symfony |
-| Testing | Behat, PHPUnit, Selenium |
+| Testing | Behat, PHPUnit, Python `unittesting`, Selenium |
 | Infrastructure | Chef, Docker Engine, nginx, Packer, PHP-FPM, SaltStack, Terraform, Vagrant |
 | Databases | PostgreSQL, Redis, SQL Server |
 | Monitoring | Datadog, Prometheus, Tideways |
