@@ -112,10 +112,7 @@ I took a temporary placement as a teaching assistant in ICT and Computing course
 
 ## Publications
 
-| | |
-| --- | --- |
-| Fluid for Moodle | `http://luke.carrier.im/projects/moodle-fluid/` |
-| Component Manager for Moodle | `http://luke.carrier.im/projects/moodle-componentmgr/` |
+Available upon request.
 
 ## Education
 
