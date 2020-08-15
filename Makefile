@@ -12,4 +12,4 @@ clean-all: clean all
 pdf: Resume.pdf
 
 Resume.pdf:
-	pandoc -f gfm -s README.md -o Resume.pdf
+	pandoc -f markdown_mmd -s README.md -o Resume.pdf -V geometry:margin=15mm
