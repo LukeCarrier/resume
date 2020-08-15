@@ -14,7 +14,7 @@ I have nine years of commercial experience in Linux systems administration, DevO
 | Languages | Bash, Go, PHP, Python, PowerShell, Ruby |
 | Frameworks | Laravel, Rails, Symfony |
 | Testing | Behat, PHPUnit, Python `unittesting`, Selenium |
-| Infrastructure | Chef, Docker Engine, nginx, Packer, PHP-FPM, SaltStack, Terraform, Vagrant |
+| Infrastructure | Chef, Docker Engine, Kubernetes, Helm, nginx, Packer, PHP-FPM, SaltStack, Terraform, Vagrant |
 | Databases | PostgreSQL, Redis, SQL Server |
 | Monitoring | Datadog, Prometheus, Tideways |
 
@@ -38,9 +38,8 @@ Avado, formerly Floream, delivers online learning experiences to enterprise and 
 
 Formal exit from the platform development team, working with the development team as product stakeholders.
 
-* __Led the migration of all UAT and production platforms to Azure:__
-    * UAT a true scaled-down replica of the live environment, down to replication configuration.
-    * Hub and spoke environments constructed from the same Terraform modules, managed using workspaces.
+* __Currently rolling out Azure Kubernetes Service infrastructure, using AAD Pod Identities, Azure Service Operator and Helm.__
+* Led the migration of all UAT and production platforms to Azure, utilising hub and spoke architecture constructed from reusable Terraform modules, managing different environments using workspaces.
 * Enabling disaster recovery and spinup of isolated testing environments from the same Terraform configurations.
 * Extending continuous delivery pipelines to cover rollback and UAT cutting operations.
 * Led deployment of PagerDuty to support the existing incident management policy.
