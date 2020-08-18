@@ -1,8 +1,8 @@
 # Luke Carrier
 
-Site Reliability Engineer seeking an engineering-focused role that allows me to apply my polyglot software development and debugging skills to improving operations experience.
+Site Reliability Engineer from a polyglot software development background seeking an engineering-focused role.
 
-I have nine years of commercial experience in Linux systems administration, DevOps, managing production Azure infrastructure with Terraform and SaltStack, and web development with PHP. Currently playing with Rust and AWS Lambda.
+I've spent the last few months building Kubernetes clusters with Azure using Terraform, AKS and the Azure Service Operator. I have nine years of commercial experience in Linux systems administration, DevOps, managing production Azure infrastructure with Terraform and SaltStack, and web development with PHP.
 
 ---
 
@@ -14,7 +14,7 @@ I have nine years of commercial experience in Linux systems administration, DevO
 | Languages | Bash, Go, PHP, Python, PowerShell, Ruby |
 | Frameworks | Laravel, Rails, Symfony |
 | Testing | Behat, PHPUnit, Python `unittesting`, Selenium |
-| Infrastructure | Chef, Docker Engine, Kubernetes, Helm, nginx, Packer, PHP-FPM, SaltStack, Terraform, Vagrant |
+| Infrastructure | Chef, Docker Engine, Kubernetes, Helm, nginx, Packer, PHP-FPM, Redis, SaltStack, Terraform, Vagrant |
 | Databases | PostgreSQL, Redis, SQL Server |
 | Monitoring | Datadog, Prometheus, Tideways |
 
@@ -40,7 +40,7 @@ Formal exit from the platform development team, working with the development tea
 
 * __Currently rolling out Azure Kubernetes Service infrastructure, using AAD Pod Identities, Azure Service Operator and Helm.__
 * Led the migration of all UAT and production platforms to Azure, utilising hub and spoke architecture constructed from reusable Terraform modules, managing different environments using workspaces.
-* Enabling disaster recovery and spinup of isolated testing environments from the same Terraform configurations.
+* Enabling disaster recovery and spin-up of isolated testing environments from the same Terraform configurations.
 * Extending continuous delivery pipelines to cover rollback and UAT cutting operations.
 * Led deployment of PagerDuty to support the existing incident management policy.
 * Deployed Tideways for PHP APM.
