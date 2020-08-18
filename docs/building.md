@@ -1,9 +1,16 @@
-# Building my resumé
+# Building my résumé
 
-## Arch workstation preparation
+## Arch Linux
 
 ```console
 sudo pacman -S pandoc texlive-most
+```
+
+## macOS
+
+```console
+brew cask install mactex
+brew install pandoc
 ```
 
 ## Build it
