@@ -1,8 +1,8 @@
 # Luke Carrier
 
-Site Reliability Engineer from a polyglot software development background seeking an engineering-focused role.
+Polyglot SWE turned SRE actively seeking a role in product development.
 
-I've spent the last few months building Kubernetes clusters with Azure using Terraform, AKS and the Azure Service Operator. I have nine years of commercial experience in Linux systems administration, DevOps, managing production Azure infrastructure with Terraform and SaltStack, and web development with PHP.
+Over the last two years I've been working as a Site Reliability Engineer in healthtech, supporting software engineering teams in a microservices environment running on EKS and AWS services. Previously I spent a decade working as a software engineer in edtech.
 
 ---
 
@@ -10,31 +10,48 @@ I've spent the last few months building Kubernetes clusters with Azure using Ter
 
 | | |
 | --- | --------- |
-| "Clouds" | Azure |
-| Languages | Bash, Go, PHP, Python, PowerShell, Ruby |
+| Applications | Blue Prism, Mahara, Moodle |
+| Clouds | Azure, AWS, GCP |
+| Languages | Bash, C#, Go, PHP, Python, PowerShell, Ruby |
 | Frameworks | Laravel, Rails, Symfony |
-| Testing | Behat, PHPUnit, Python `unittesting`, Selenium |
+| Testing | Behat, PHPUnit, Python `unittesting`, Selenium and WebDriver |
 | Infrastructure | Chef, Docker Engine, Kubernetes, Helm, nginx, Packer, PHP-FPM, Redis, SaltStack, Terraform, Vagrant |
-| Databases | PostgreSQL, Redis, SQL Server |
-| Monitoring | Datadog, Prometheus, Tideways |
+| Databases | MySQL, PostgreSQL, Redis, SQL Server |
+| Monitoring | Datadog, Honeycomb, New Relic, OpenTelemetry, Prometheus, Tideways |
 
 ## Contact details
 
 | | |
 | --- | --- |
-| Email | `luke@carrier.im` |
+| Email | `luke@carrier.family` |
 | Phone | +44 7720 180931 |
+| Website | [`luke.carrier.im`](https://luke.carrier.im/) |
 | GitHub | [@LukeCarrier](https://github.com/LukeCarrier) |
 | LinkedIn | [/in/lukecarrier](https://uk.linkedin.com/in/lukecarrier) |
 | DEV | [@lukecarrier](https://dev.to/lukecarrier) |
 
 ## Employment
 
+### Babylon Health
+
+Keeping the UK's largest GP practice running through turbulent times.
+
+#### Site Reliability Engineer (November 2020 - present)
+
+Joined a new SRE team in Babylon's Clinical Care Experience tribe, working under an architect as the first SRE hire. The team later merged with its namesake in the Self Care tribe.
+
+* __Assuming ownership of the organisation's Robotic Process Automation platform, coordinating an upgrade to the latest major version and end-to-end automation of future platform updates.__
+* __Migrating observability configuration (Honeycomb and Sentry) to IAC, supporting an organisation-wide migration from New Relic to OpenTelemetry and Honeycomb in under 30 days.__
+* Maintenance of internally-used Terraform providers.
+* Large-scale infrastructure maintenance, including developing an Azure DevOps pipeline for automated RDS engine version upgrades.
+* Migrating our incident management automations from FreshService to ServiceNow.
+* Participating in the on-call rota, initially supporting a dedicated incident management team, later additionally taking on incident commander and communications responsibilities.
+
 ### Avado Learning
 
 Avado, formerly Floream, delivers online learning experiences to enterprise and individuals. They operate one of the largest distance learning providers, Home Learning College.
 
-#### Site Reliability Engineer (August 2018 - present)
+#### Site Reliability Engineer (August 2018 - November 2020)
 
 Formal exit from the platform development team, working with the development team as product stakeholders.
 
