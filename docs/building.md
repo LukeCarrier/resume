@@ -9,8 +9,8 @@ sudo pacman -S pandoc texlive-most
 ## macOS
 
 ```console
-brew cask install mactex
-brew install pandoc
+brew install --cask mactex
+brew install --formula pandoc
 ```
 
 ## Build it
